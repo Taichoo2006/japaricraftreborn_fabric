@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "japaricraftreborn",
+  "version": "${version}",
+  "name": "Japaricraft Reborn",
+  "description": "Example Fabric mod.",
+  "authors": ["Your Name"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.example.japaricraftreborn.JaparicraftrebornMod"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "fabric": "*",
+    "minecraft": "1.21.5"
+  }
+}
